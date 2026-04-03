@@ -202,80 +202,55 @@ def _new_var(sigma_0, n0, uncertainty, mu_0, y):
     return (n0 * sigma_0 * sigma_0 + uncertainty * uncertainty + mean_shift) / (n0 + 1)
 
 
-def posterior(model, sites, idcol, n_prior=3, min_sigma=0.5, method="weighted"):
+def posterior(sites, idcol, n_prior=3, min_sigma=0.5, method="weighted"):
     """
     Generates posterior models from measured sites.
     
-    model: prior model (numpy array of [vs30_mean, vs30_stdv])
     sites: sites containing vs30 and uncertainty (Pandas DataFrame)
     idcol: model ID column in sites (e.g., 'gid' or 'tid')
-    n_prior: assume prior model made up of n_prior measurements (used in bayesian)
+    n_prior: number of implied prior measurements (used only in bayesian)
     min_sigma: minimum model_stdv allowed
-    method: "bayesian" for iterative updating or "weighted" for inverse-variance weighted average.
+    method: "bayesian" requires prior model, "weighted" computes from data only
     """
-    # initialize new model arrays
-    vs30 = np.copy(model[:, 0])
-    stdv = np.maximum(model[:, 1], min_sigma)
-
+    
     if method == "weighted":
-        # Calculate model using inverse-variance weighted average directly from data
-        for m in range(len(model)):
-            class_id = m + 1
+        # Determine max ID from sites data to size the output array
+        max_id = int(sites[idcol].max())
+        
+        # Initialize output arrays (no prior needed)
+        vs30 = np.zeros(max_id)
+        stdv = np.full(max_id, min_sigma)
+        
+        # Calculate from measured sites only
+        for class_id in range(1, max_id + 1):
             subset = sites[sites[idcol] == class_id]
             
             if len(subset) > 0:
                 v = subset['vs30'].values
                 u = subset['uncertainty'].values
                 
-                # Check if quality flag 'q' exists, default to normal weight if not
                 if 'q' in subset.columns:
                     q_vals = subset['q'].values
-                    # eff_count = 0.1 for q=5, 1.0 for others
                     eff_count = np.sum(np.where(q_vals == 5, 0.1, 1.0))
                 else:
                     q_vals = np.zeros(len(v))
                     eff_count = float(len(v))
 
-                # Weight: inverse of variance
                 w = 1.0 / (u ** 2)
-                
-                # Apply penalty: weight divided by 10 for q=5
                 if 'q' in subset.columns:
                     w[q_vals == 5] /= 10.0
                 
-                # Calculate weighted average
-                vs30[m] = np.average(v, weights=w)
+                vs30[class_id - 1] = np.average(v, weights=w)
                 
-                # Calculate weighted standard deviation if we have enough effective data points
                 if eff_count > 3:
                     ln_v = np.log(v)
                     ln_w_mean = np.average(ln_v, weights=w)
-                    stdv[m] = np.sqrt(np.average((ln_v - ln_w_mean)**2, weights=w))
+                    stdv[class_id - 1] = np.sqrt(np.average((ln_v - ln_w_mean)**2, weights=w))
                 else:
-                    # Fallback standard deviation for sparse data
-                    stdv[m] = 0.5
-            else:
-                # If no data is available for this ID, retain the prior model values
-                vs30[m] = model[m, 0]
-                stdv[m] = min_sigma
-                
+                    stdv[class_id - 1] = min_sigma
+                    
     elif method == "bayesian":
-        # Calculate model using iterative Bayesian updating
-        n0 = np.repeat(n_prior, len(model))
-        for _, r in sites.iterrows():
-            m = int(r[idcol])
-            if m == ID_NODATA or m == 0:
-                continue
-            m -= 1
-            
-            var = _new_var(stdv[m], n0[m], r.uncertainty, vs30[m], r.vs30)
-            vs30[m] = _new_mean(vs30[m], n0[m], var, r.vs30)
-            stdv[m] = sqrt(var)
-            n0[m] += 1
-            
-            # Optional prints for debugging (kept from original)
-            # print(stdv[m])
-            # print(vs30[m])
+        raise ValueError("Bayesian method requires prior model parameter")
     else:
         raise ValueError("Invalid method. Choose 'bayesian' or 'weighted'.")
 
