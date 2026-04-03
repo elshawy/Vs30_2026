@@ -235,19 +235,18 @@ def run_vs30calc(
             model_table = model_module.model_posterior_paper()
 
         elif model_setup.update == "posterior":
-            model_table = model_module.model_prior()
-
             if p_sites.source == "cpt":
-                measured_sites = sites_cluster.cluster(
-                    measured_sites, model_setup.letter, nproc=n_procs
-                )
+                measured_sites = sites_cluster.cluster(...)
+                model_table = model_module.model_prior()
                 model_table = model_fixed_weightedaverage.cluster_update(
-                    model_table, measured_sites, model_setup.letter
+                            model_table, measured_sites, model_setup.letter
                 )
             else:
                 model_table = model_fixed_weightedaverage.posterior(
-                    model_table, measured_sites, f"{model_setup.letter}id"
-                )
+                    measured_sites, 
+                    f"{model_setup.letter}id",
+                    method="weighted"  # 기본값
+                    )
 
         logger.info(f"    took: {time.time() - start_time:.2f}s")
 
