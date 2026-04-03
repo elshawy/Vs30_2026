@@ -1,0 +1,10 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="SOFTWARE">Python rasterio</MDI>
+    <MDI key="SOURCE_CRS">EPSG:4326</MDI>
+    <MDI key="TARGET_CRS">EPSG:2193</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>Terrain ID Index</Description>
+  </PAMRasterBand>
+</PAMDataset>

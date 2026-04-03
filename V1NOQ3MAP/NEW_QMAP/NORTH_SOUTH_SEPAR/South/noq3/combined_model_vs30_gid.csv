@@ -1,0 +1,16 @@
+gid,gid_code,gid_name,prior_means,prior_errors,gid,gid_code,gid_name,posterior_means,posterior_errors,gid,gid_code,gid_name,new_posterior_means,new_posterior_errors
+1,G01,Peat,161.0,0.522,1,G01,Peat,162.89212,0.30103323,1,G01,Peat,195.41069,0.41508746
+2,G04,Artificial fill,198.0,0.314,2,G04,Artificial fill,272.51273,0.28030595,2,G04,Artificial fill,198.0,0.5
+3,G05,Fluvial and estuarine deposits,239.0,0.867,3,G05,Fluvial and estuarine deposits,199.5024,0.43875366,3,G05,Fluvial and estuarine deposits,200.25339,0.4504522
+4,G06,Alluvium and valley sediments,323.0,0.365,4,G06,Alluvium and valley sediments,271.05063,0.24348658,4,G06,Alluvium and valley sediments,195.23862,0.27529743
+5,G08,Lacustrine,326.0,0.135,5,G08,Lacustrine,326.0,0.5,5,G08,Lacustrine,326.0,0.5
+6,G09,"Beach, bar, dune deposits",339.0,0.647,6,G09,"Beach, bar, dune deposits",204.374,0.23219699,6,G09,"Beach, bar, dune deposits",203.76747,0.28757998
+7,G10,Fan deposits,360.0,0.338,7,G10,Fan deposits,246.61383,0.3446012,7,G10,Fan deposits,284.13754,0.4598831
+8,G11,Loess,376.0,0.38,8,G11,Loess,472.7494,0.3545621,8,G11,Loess,440.836,0.53688735
+9,G12,Glacigenic sediments,399.0,0.305,9,G12,Glacigenic sediments,399.0,0.5,9,G12,Glacigenic sediments,399.0,0.5
+10,G13,Flood deposits,448.0,0.432,10,G13,Flood deposits,197.47285,0.20262977,10,G13,Flood deposits,370.97815,0.5516036
+11,G14,Glacial moraines and till,453.0,0.512,11,G14,Glacial moraines and till,453.0,0.512,11,G14,Glacial moraines and till,453.0,0.512
+12,G15,Undifferentiated sediments and sedimentary rocks,455.0,0.545,12,G15,Undifferentiated sediments and sedimentary rocks,455.0,0.545,12,G15,Undifferentiated sediments and sedimentary rocks,455.0,0.545
+13,G16,Terrace deposits and old alluvium,458.0,0.761,13,G16,Terrace deposits and old alluvium,335.2795,0.6028869,13,G16,Terrace deposits and old alluvium,416.52072,0.50913423
+14,G17,Volcanic rocks and deposits,635.0,0.995,14,G17,Volcanic rocks and deposits,635.0,0.995,14,G17,Volcanic rocks and deposits,635.0,0.995
+15,G18,Crystalline rocks,750.0,0.641,15,G18,Crystalline rocks,690.97437,0.446037,15,G18,Crystalline rocks,750.0,0.641

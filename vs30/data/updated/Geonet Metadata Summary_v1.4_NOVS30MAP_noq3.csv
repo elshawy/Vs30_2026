@@ -1,0 +1,117 @@
+Station,Latitude,Longitude,Elevation,NZS1170SiteClass,Vs30,Sigmaln_Vs30,Q_Vs30,Vs30_Ref,T_median,sigmaln_T,Q_T,D_T,T_Ref,Z1.0_median,sigmaln_Z1.0,Q_Z1.0,Z1.0_Bedrock,Z1.0_Ref,Z2.5_median,sigmaln_Z2.5,Q_Z2.5,Z2.5_Ref,Reference_site,TopoT_median,Deeprock_T,District
+015A,-39.48905314,176.8981976,60,C,440,0.1,Q2,Stolte et al. 2021 unpublished,0.05,0.3,Q3,I,Kaiser et al. (2017),58,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),6675,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+018A,-38.66403882,178.0249143,5,E,138,0.1,Q2,Barker 1994 Kingma 1964,1.11,0.1,Q1,Ms,Stolte et al. 2021 unpublished,78,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),10175,0.5,Q3,NZVM (2021),0,0,0,Gisborne
+025A,-39.58494918,174.2734648,100,D,210,0.1,Q2,Barker 1997a,0.6,0.2,Q2,Ms,Unpub HVSR (Van Houtte),49,0.5,Q2,1,Kaiser et al. (2017) & NZVM (2021),1425,0.5,Q3,NZVM (2021),0,0,0,Taranaki
+027A,-39.50455346,176.8959975,14,D,230,0.0176,Q2,Stolte et al. 2021 unpublished,0.87,0.2,Q2,I,Stolte et al. 2021 unpublished,163,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),6525,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+027C,-39.50455346,176.8959975,14,D,230,0.0176,Q2,Stolte et al. 2021 unpublished,0.87,0.2,Q2,I,Stolte et al. 2021 unpublished,163,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),6525,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+044A,-45.89839582,170.5092855,19,E,140,0.1,Q2,Barker 1996,0.7,0.1,Q1,I,Sangster 2020,50,0.3,Q3,1,Kaiser et al. (2017) & NZVM (2021),325,0.3,Q3,NZVM (2021),0,0,0,Otago
+096A,-39.03374495,177.4235057,20,E,155,0.1,Q2,Barker 1994,1.5,0.3,Q3,I,Cousins et al. (1996),98,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),8725,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+132A,-41.29748792,174.7809641,5,C,245,0.1,Q2,McVerry (2011),0.52,0.2,Q2,I,Kaiser et al. 2019,48,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+225B,-39.03384495,177.4235057,20,E,155,0.1,Q2,Barker 1994,1.5,0.3,Q3,I,Cousins et al. (1996),98,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),8725,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+249A,-41.2349868,174.9170661,4,C,350,0.1,Q2,Cousins et al. (2006),0.35,0.2,Q2,Mu,Cousins et al. (1996),63,0.3,Q3,1,Kaiser et al. (2017) & NZVM (2021),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+302A,-39.933758,175.052973,20,D,250,0.1,Q2,McVerry (2011),1.2,0.1,Q1,I,Manea et al. 2021 unpublished,78,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),3825,0.5,Q3,NZVM (2021),0,0,0,Wellington
+505A,-42.94831943,171.5668155,740,C,300,0.1,Q2,McVerry (2011),0.4,0.2,Q2,Ms,McVerry (2011),30,0.1,Q2,1,Kaiser et al. (2017),275,0.5,Q3,NZVM (2021),0,0,0,Canterbury
+608A,-41.22408646,174.8793657,2,D,200,0.1,Q2,McVerry (2011),2,0.2,Q2,I,Unpub HVSR (Van Houtte),275,0.1,Q2,1,Boon et al. (2010),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+647A,-41.28708767,174.7779641,1,C,474,0.1,Q2,McVerry (2011),0.16,0.2,Q2,I,Kaiser et al. 2019,11,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+647D,-41.2875116,174.7769631,1,C,474,0.1,Q2,McVerry (2011),0.07,0.2,Q2,I,Kaiser et al. 2019,6,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+651A,-41.20468612,174.9232663,20,D,330,0.1,Q2,Kaiser & Louie (2006),1,0.3,Q3,I,Boon et al. (2010),138,0.1,Q2,1,Boon et al. (2010),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+900B,-41.29208779,174.7789641,3,D,267,0.1,Q2,McVerry (2011),1,0.2,Q2,I,Kaiser et al. 2019,119,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+902A,-41.27755446,174.7792582,9,D,275,0.1,Q2,McVerry (2011),1.1,0.2,Q2,I,Kaiser et al. 2019,108,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+907A,-41.27878748,174.7784642,2,D,250,0.1,Q2,McVerry (2011),1.05,0.2,Q2,I,Kaiser et al. 2019,95,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+911A,-41.2885877,174.7768641,3,C,358,0.1,Q2,McVerry (2011),0.25,0.2,Q2,I,Kaiser et al. 2019,15,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+912A,-41.32628865,174.8084644,6,D,239,0.1,Q2,McVerry (2011),1.12,0.03,Q1,Mw,Stolte et al. 2021 unpublished,66,0.05,Q2,1,Stolte et al. 2021 unpublished,325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+914A,-41.29498784,174.773464,16,C,282,0.1,Q2,McVerry (2011),0.49,0.2,Q2,I,Kaiser et al. 2019,41,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+914B,-41.29498784,174.773464,16,C,282,0.1,Q2,McVerry (2011),0.49,0.2,Q2,I,Kaiser et al. 2019,41,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+916A,-41.29408783,174.7756641,12,D,291,0.1,Q2,McVerry (2011),0.75,0.2,Q2,I,Kaiser et al. 2019,81,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+919A,-41.29358782,174.7768641,8,D,307,0.1,Q2,McVerry (2011),0.92,0.2,Q2,I,Kaiser et al. 2019,108,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+941A,-41.29208779,174.7789641,3,D,272,0.1,Q2,McVerry (2011),1.03,0.2,Q2,I,Kaiser et al. 2019,119,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+APPS,-42.94894944,171.5677355,19,C,300,0.1,Q2,McVerry (2011),0.44,0.1,Q1,Ms,Manea et al. 2021 unpublished,30,0.1,Q2,1,Kaiser et al. (2017),275,0.5,Q3,NZVM (2021),0,0,0,Canterbury
+CRLZ,-43.574741,172.6232219,832,B,900,0.1,Q2,van Houtte et al. 2012,0.05,0.3,Q3,Mw,NSHM (2021),0,0.1,Q1,1,Kaiser et al. (2017),1525,0.3,Q3,NZVM (2021),0,0.9,0,Canterbury
+DUNS,-45.9051559,170.4706449,9,C,500,0.1,Q2,Kaiser et al. 2017,0.17,0.1,Q1,Ms,Manea et al. 2021 unpublished,9,0.1,Q2,1,Kaiser et al. (2017),325,0.5,Q3,NZVM (2021),0,0,1,Otago
+EBPS,-41.28942801,174.9002357,1118,C,540,0.1,Q2,Kaiser & Louie (2006),0.38,0.3,Q3,Mw,Unpub HVSR (Van Houtte),7,0.1,Q2,1,Kaiser et al. (2017),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+HWHS,-39.58513919,174.2742448,322,D,210,0.1,Q2,Barker 1997a,0.6,0.1,Q1,Ms,Manea et al. 2021 unpublished,49,0.5,Q2,1,Kaiser et al. (2017) & NZVM (2021),1425,0.5,Q3,NZVM (2021),0,0,0,Taranaki
+KAFS,-38.0835149,176.7092902,35,D,220,0.1,Q2,Kaiser et al. 2017,1.2,0.1,Q1,Mw,Manea et al. 2021 unpublished,78,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),325,0.5,Q3,NZVM (2021),0,0,1,South Auckland
+LNBS,-41.20498,174.9266,728,D,330,0.1,Q2,Kaiser & Louie (2006),0.8,0.3,Q3,I,Boon et al. (2010),131,0.1,Q2,1,Boon et al. (2010),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+NGHS,-39.48587311,176.9149278,7,C,440,0.1,Q2,Stolte et al. 2021 unpublished,0.187,0.13,Q1,Mw,Stolte et al. 2021 unpublished,61,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),6675,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+PGMS,-41.22450647,174.8794357,490,D,200,0.1,Q2,Kaiser & Louie (2006),1.788,0.0389,Q1,Ms,Stolte et al. 2021 unpublished,274,0.1,Q2,1,Boon et al. (2010),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+PRKS,-41.24901997,174.9341325,2,D,190,0.1,Q2,Kaiser & Louie 2006,0.8,0.1,Q1,Ms,Manea et al. 2021 unpublished,70,0.1,Q2,1,Kaiser et al. (2017),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+PVCS,-41.22474608,174.8739174,20,D,190,0.1,Q2,Kaiser & Louie (2006),2,0.2,Q2,I,Manea et al. 2021 unpublished,296,0.1,Q2,1,Boon et al. (2010),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+SKFS,-45.89862582,170.5097155,150,E,140,0.1,Q2,Barker 1996,0.69,0.164,Q1,I,Sangster 2020,50,0.3,Q3,1,Kaiser et al. (2017) & NZVM (2021),325,0.3,Q3,NZVM (2021),0,0,1,Otago
+WFSS,-39.03424496,177.4249057,42,D,155,0.1,Q2,Barker 1994,1,0.1,Q1,I,Manea et al. 2021 unpublished,98,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),8825,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+MKAZ,-37.10413,175.16117,1560,B,800,0.2,Q2,NSHM 2021,0.05,0.1,Q1,I,Manea et al. 2021 unpublished,55,0.5,Q3,1,NZVM (2021),375,0.5,Q3,NZVM (2021),1,0,0,North Auckland
+MOZ,-38.50402867,174.8031755,386,B,800,0.2,Q2,NSHM 2021,0.05,0.1,Q1,I,Manea et al. 2021 unpublished,45,0.5,Q3,1,NZVM (2021),375,0.5,Q3,NZVM (2021),0,0,0,South Auckland
+014A,-39.49995332,176.8754973,20,D,176,0.05,Q1,Stolte et al. 2021 unpublished,1.1,0.1,Q1,I,Manea et al. 2021 unpublished,118,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),6475,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+017A,-38.66623886,178.0227143,5,D,162,0.0108,Q1,Stolte et al. 2021 unpublished,0.9061,0.0969,Q1,Ms,Stolte et al. 2021 unpublished,120,0.0723,Q2,1,Stolte et al. (2021) unpublished,10125,0.5,Q3,NZVM (2021),0,0,0,Gisborne
+029A,-39.64545628,176.8429964,10,D,196,0.0204,Q1,Stolte et al. 2021 unpublished,3.32,0.17,Q2,I,Stolte et al. 2021 unpublished,97,0.465,Q2,0,Stolte et al. (2021) unpublished,5175,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+468A,-41.20108611,174.9546667,12,D,190,0.05,Q1,Kaiser & Louie (2006),0.9,0.3,Q3,I,Unpub HVSR (Kaiser),51,0.1,Q2,1,Boon et al. (2010),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+642A,-41.2349868,174.9171661,4,C,350,0.05,Q1,Cousins et al. (2006),0.35,0.2,Q2,Mu,Cousins et al. (1996),58,0.3,Q3,1,Kaiser et al. (2017) & NZVM (2021),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+642E,-41.23408678,174.9179661,3,C,350,0.05,Q1,Cousins et al. (2006),0.35,0.2,Q2,Mu,Cousins et al. (1996),39,0.1,Q2,1,Boon et al. (2010),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+642G,-41.234981,174.9171844,4,C,350,0.05,Q1,Cousins et al. (2006),0.35,0.2,Q2,Mu,Cousins et al. (1996),24,0.1,Q2,1,Boon et al. (2010),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+642H,-41.2349868,174.9171661,4,C,350,0.05,Q1,Cousins et al. (2006),0.35,0.2,Q2,Mu,Cousins et al. (1996),24,0.1,Q2,1,Boon et al. (2010),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+646A,-41.25708738,174.9481664,87,E,120,0.05,Q1,Kaiser & Louie (2006),1.6,0.1,Q1,Mu,Stephenson & Barker 1992,62,0.1,Q2,1,Kaiser et al. (2017),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+646B,-41.25628736,174.9479664,87,E,120,0.05,Q1,Kaiser & Louie (2006),1.6,0.1,Q1,Mu,Stephenson & Barker 1992,62,0.1,Q2,1,Kaiser et al. (2017),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+646C,-41.25628736,174.9479664,87,E,120,0.05,Q1,Kaiser & Louie (2006),1.6,0.1,Q1,Mu,Stephenson & Barker 1992,62,0.1,Q2,1,Kaiser et al. (2017),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+709A,-38.62743789,177.9205131,9,E,156,0.0183,Q1,Stolte et al. 2021 unpublished,1.499,0.2122,Q1,I,Stolte et al. 2021 unpublished,180,0.236,Q2,1,Stolte et al. 2021 unpublished,9225,0.5,Q3,NZVM (2021),0,0,0,Gisborne
+928B,-39.67105689,176.8801967,22,D,256,0.0196,Q1,Stolte et al. 2021 unpublished,2.65,0.07,Q1,Ms,Stolte et al. 2021 unpublished,302,0.0696,Q2,1,Stolte et al. 2021 unpublished,5625,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+934B,-41.24358698,174.907966,1,D,180,0.05,Q1,Kaiser & Louie (2006),1.1,0.3,Q3,I,Boon et al. (2010),183,0.1,Q2,1,Boon et al. (2010),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+AKSS,-43.81091,172.96349,266,C,435,0.05,Q1,Unpublished MASW (C. Van Houtte),0.3,0.1,Q1,Mw,Kaiser et al. (2013),10,0.1,Q2,1,Kaiser et al. (2017),1425,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+CACS,-43.48317559,172.5300153,266,D,435,0.05,Q1,Wotherspoon et al. 2015,6.79,0.1,Q1,Ma,Stolte et al. 2021,595,0.3,Q3,0,NZVM (2021),2675,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+CBGS,-43.52934701,172.6198762,63,D,197,0.05,Q1,Wotherspoon et al. 2015,4.35,0.1,Q1,I,Stolte et al. 2021,545,0.3,Q3,0,NZVM (2021),2375,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+CCCC,-43.538085,172.647427,234,D,182,0.05,Q1,Wotherspoon et al. 2015,2.51,0.1,Q1,Ma,Stolte et al. 2021,495,0.3,Q3,0,NZVM (2021),2075,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+CHHC,-43.535929,172.627523,46,D,196,0.05,Q1,Wotherspoon et al. 2015,2.66,0.2,Q2,I,Stolte et al. 2021,515,0.3,Q3,0,NZVM (2021),2175,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+CMHS,-43.56561796,172.6241761,277,D,213,0.05,Q1,Wotherspoon et al. 2015,0.695,0.1,Q1,Mw,Stolte et al. 2021,125,0.3,Q3,0,NZVM (2021),1625,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+CULC,-42.759438,172.8026023,1247,D,407,0.028,Q1,Stolte et al. 2021 unpublished,2.4,0.1,Q1,I,Stolte et al. 2021 unpublished,70,0.195,Q2,0,Stolte et al. (2021) unpublished,475,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+DFHS,-43.48967462,172.1021597,6,D,515,0.0453,Q1,Deschenes et al. (2018),5.6,0.1,Q1,Mw,Stolte et al. 2021,797,0,Q2,0,Deschenes et al. (2018),1225,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+FKPS,-41.28794769,174.7787641,134,C,323,0.089,Q1,Vantassel & Cox 2018,0.41,0.2,Q2,Mw,Kaiser et al. 2019,30,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+GDLC,-43.586183,172.088753,450,D,457,0.0532,Q1,Deschenes et al. (2018),5.89,0.1,Q1,I,Stolte et al. 2021,517,0,Q2,0,Deschenes et al. (2018),1675,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+GHHS,-38.64178,178.01772,2,D,275,0.0261,Q1,Stolte et al. 2021 unpublished,0.95,0.0511,Q1,I,Stolte et al. 2021 unpublished,108,0.167,Q2,1,Stolte et al. (2021) unpublished,10475,0.5,Q3,NZVM (2021),0,0,0,Gisborne
+GISS,-38.66648887,178.0226743,3,E,162,0.011,Q1,Stolte et al. 2021 unpublished,0.91,0.1,Q1,Ms,Stolte et al. 2021 unpublished,120,0.0723,Q2,1,Stolte et al. (2021) unpublished,10125,0.5,Q3,NZVM (2021),0,0,0,Gisborne
+GWTS,-38.62567786,177.9215832,37,E,156,0.0183,Q1,Stolte et al. 2021 unpublished,1.5,0.22,Q1,I,Stolte et al. 2021 unpublished,180,0.236,Q2,1,Stolte et al. (2021) unpublished,9175,0.5,Q3,NZVM (2021),0,0,0,Gisborne
+HCDS,-39.64584629,176.8429064,89,D,196,0.02,Q1,Stolte et al. 2021 unpublished,3.32,0.17,Q1,I,Stolte et al. 2021 unpublished,97,0.465,Q2,0,Stolte et al. (2021) unpublished,5125,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+HNPS,-39.67101689,176.8801067,255,D,256,0.02,Q1,Stolte et al. 2021 unpublished,2.65,0.07,Q1,Ms,Stolte et al. 2021 unpublished,302,0.0696,Q2,1,Stolte et al. (2021) unpublished,5625,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+HORC,-43.53963553,171.9599076,70,D,531,0.055,Q1,Deschenes et al. (2018),6.04,0.1,Q1,I,Stolte et al. 2021,697,0,Q2,0,Deschenes et al. (2018),2075,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+HVSC,-43.579787,172.709423,421,C,348,0.05,Q1,Wotherspoon et al. 2015,0.27,0.1,Q1,Ms,Wotherspoon et al. 2015,19,0.1,Q1,1,Kaiser et al. (2017),1525,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+KPOC,-43.3764632,172.6637676,33,D,257,0.05,Q1,Wotherspoon et al. 2016,7.1,0.1,Q1,I,Wotherspoon et al 2016,1345,0.3,Q3,0,NZVM (2021),3275,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+LHUS,-41.23084665,174.8936358,62,D,212,0.05,Q1,Kaiser & Louie (2006),1.75,0.1,Q1,I,Manea et al. 2021 unpublished,243,0.1,Q2,1,Boon et al. (2010),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+LINC,-43.62317904,172.4680038,4,D,292,0.0468,Q1,Deschenes et al. (2018),4.36,0.1,Q1,I,Stolte et al. 2021,662,0,Q2,0,Deschenes et al. (2018),1725,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+LRSS,-41.2294301,174.9042459,196,D,256,0.018,Q1,Stolte et al. 2021 unpublished,1.72,0.11,Q1,I,Stolte et al. 2021 unpublished,200,0.1,Q2,1,Boon et al. (2010),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+MGCS,-41.50768077,173.9443926,27,D,402,0.05,Q1,Stolte et al. 2021 unpublished,3.9,0.1,Q2,Mw,Stolte et al. 2021 unpublished,95,0.597,Q2,0,Stolte et al. (2021) unpublished,1125,0.3,Q3,NZVM (2021),0,0,0,Marlborough
+MISS,-41.31488841,174.8184345,102,D,274,0.005,Q1,Stolte et al. 2021 unpublished,1.15,0.11,Q1,Mw,Stolte et al. 2021 unpublished,97,0.021,Q2,1,Stolte et al. (2021) unpublished,325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+NAAS,-39.468735,176.872021,70,D,243,0.0145,Q1,Stolte et al. 2021 unpublished,1.77,0.12,Q1,I,Stolte et al. 2021 unpublished,179,0.215,Q2,1,Stolte et al. (2021) unpublished,6475,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+NBLC,-43.50685883,172.7313538,33,D,189,0.05,Q1,Wotherspoon et al. 2015,3.75,0.1,Q1,Ma,Wotherspoon et al. 2015,605,0.3,Q3,0,NZVM (2021),2025,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+NBSS,-41.202272,174.953755,141,D,190,0.05,Q1,Kaiser & Louie (2006),0.9,0.1,Q1,Ms,Manea et al. 2021 unpublished,47,0.1,Q2,1,Boon et al. (2010),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+NCDS,-39.500141,176.875961,1037,D,176,0.01,Q1,Stolte et al. 2021 unpublished,1.1,0.1,Q1,I,Manea et al. 2021 unpublished,118,0.5,Q3,1,Kaiser et al. (2017) & NZVM (2021),6475,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+NCHS,-39.5066335,176.8967575,97,D,230,0.18,Q1,Stolte et al. 2021 unpublished,0.865,0.08,Q1,Mw,Stolte et al. 2021 unpublished,133,0.176,Q2,1,Stolte et al. (2021) unpublished,6525,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+NNBS,-43.49542639,172.7179977,1176,D,204,0.05,Q1,Wotherspoon et al. 2015,4.87,0.1,Q1,Ma,Wotherspoon et al. 2015,685,0.3,Q3,0,NZVM (2021),2175,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+PIPS,-41.26748661,174.7860682,45,D,210,0.058,Q1,Vantassel & Cox 2018,1,0.1,Q1,I,Kaiser et al. 2019,157,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+POTS,-41.27221732,174.7746442,4,C,453,0.02,Q1,Stolte et al. 2021 unpublished,0.24,0.1,Q1,Mn,Stolte et al. 2021 unpublished,24,0.05,Q1,1,Stolte et al. (2021) unpublished,325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+PPHS,-43.49284604,172.6069162,125,D,180,0.05,Q1,Wotherspoon et al. 2015,6.2,0.1,Q1,Ma,Stolte et al. 2021,665,0.3,Q3,0,NZVM (2021),3325,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+PRPC,-43.52581308,172.6827711,19,D,196,0.05,Q1,Wotherspoon et al. 2015,5.28,0.1,Q1,Ma,Stolte et al. 2021,485,0.3,Q3,0,NZVM (2021),2075,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+REHS,-43.52194686,172.6351465,628,E,155,0.05,Q1,Wotherspoon et al. 2015,4.99,0.1,Q1,Ms,Stolte et al. 2021,645,0.3,Q3,0,NZVM (2021),2575,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+RHSC,-43.536172,172.564404,480,D,286,0.05,Q1,Wotherspoon et al. 2015,5.2,0.1,Q1,Ma,Wotherspoon et al. 2015,445,0.3,Q3,0,NZVM (2021),1925,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+RKAC,-43.75146119,172.0231473,933,D,452,0.0496,Q1,Deschenes et al. (2018),6.04,0.1,Q1,I,Stolte et al. 2021,778,0,Q2,0,Deschenes et al. (2018),1825,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+ROLC,-43.59281802,172.3810928,198,D,447,0.145,Q1,Deschenes et al. (2018),5.89,0.1,Q1,I,Stolte et al. 2021,757,0,Q2,0,Deschenes et al. (2018),1425,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+RQGS,-41.2965279,174.7811541,65,D,246,0.05,Q1,Kaiser & Louie (2006),0.6,0.1,Q1,Mu,Taber & Richardson 1992,46,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+SEAS,-41.326447,174.837638,29,C,305,0.011,Q1,Stolte et al. 2021 unpublished,0.3,0.2,Q2,I,Manea et al. 2021 unpublished,53,0.3,Q3,1,Kaiser et al. (2017) & NZVM (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+SHLC,-43.50533676,172.6633911,298,D,201,0.05,Q1,Wotherspoon et al. 2015,4.96,0.1,Q1,I,Stolte et al. 2021,675,0.3,Q3,0,NZVM (2021),2475,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+SLRC,-43.67513,172.31752,194,D,327,0.0793,Q1,Deschenes et al. (2018),4.9,0.1,Q1,I,Stolte et al. 2021,590,0,Q2,0,Deschenes et al. (2018),1825,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+SMTC,-43.4675293,172.6138611,86,D,219,0.05,Q1,Wotherspoon et al. 2015,6.34,0.1,Q1,Ma,Stolte et al. 2021,695,0.3,Q3,0,NZVM (2021),3375,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+SWNC,-43.36943258,172.4953554,296,D,546,0.043,Q1,Deschenes et al. (2018),6.68,0.1,Q1,I,Stolte et al. 2021,287,0,Q2,0,Deschenes et al. (2018),3825,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+TAIS,-41.18038403,174.9547719,427,D,510,0.52,Q1,Stolte et al. 2021 unpublished,0.69,0.1,Q1,Mw,Stolte et al. 2021 unpublished,42,0.686,Q2,1,Stolte et al. (2021) unpublished,275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+TBCS,-37.70269658,176.1566748,6,D,209,0.039,Q1,Stolte et al. 2021 unpublished,1.15,0.12,Q2,I,Stolte et al. 2021 unpublished,141,0.229,Q2,1,Stolte et al. 2021 unpublished,775,0.5,Q3,NZVM (2021),0,0,0,South Auckland
+TEPS,-41.29058776,174.7810642,323,D,292,0.15,Q1,Vantassel & Cox 2018,0.99,0.1,Q1,Ms,Kaiser et al 2019,103,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+TFSS,-41.27542742,174.7830542,21,D,271,0.01,Q1,Site Investigations (2023),1.73,0.2,Q2,Mw,Kaiser et al 2019,157,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+TPLC,-43.54999716,172.4719542,278,D,398,0.112,Q1,Deschenes et al. (2018),5.46,0.1,Q1,I,Stolte et al. 2021,787,0,Q2,0,Deschenes et al. (2018),1475,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+UHCS,-41.12681462,175.0409381,3,D,390,0.025,Q1,Stolte et al. 2021 unpublished,2,0.2,Q2,Mw,Unpub HVSR (Van Houtte),136,0.295,Q2,0,Stolte et al. (2021) unpublished,325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+UHSS,-41.12638,175.06509,19,D,481,0.027,Q1,Stolte et al. 2021 unpublished,0.9,0.13,Q2,Mw,Stolte et al. 2021 unpublished,104,0.177,Q2,1,Stolte et al. (2021) unpublished,325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+VUWS,-41.279854,174.778399,945,D,286,0.098,Q1,Vantassel & Cox 2018,0.87,0.2,Q2,Mw,Kaiser et al. 2019,70,0.32,Q2,1,Vantassel & Cox (2018),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+WDAS,-41.25739739,174.9484664,4,E,120,0.05,Q1,Stephenson & Barker 1992,1.25,0.1,Q1,Mu,Manea et al. 2021 unpublished,62,0.1,Q2,1,Kaiser et al. (2017),275,0.3,Q3,NZVM (2021),0,0,0,Wellington
+WEMS,-41.27428738,174.7792642,55,D,265,0.05,Q1,Kaiser & Louie (2006),0.98,0.2,Q2,Mw,Kaiser et al 2019,128,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+WIGC,-42.70118655,172.8003026,1250,D,478,0.017,Q1,Stolte et al. 2021 unpublished,1.2,0.1,Q2,Mw,Kaiser et al. (2013),69,0.096,Q2,0,Stolte et al. (2021) unpublished,475,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+WNAS,-41.32640865,174.8090344,2,D,229,0.02,Q1,Stolte et al. 2021 unpublished,1.12,0.03,Q1,Mw,Stolte et al. 2021 unpublished,66,0.05,Q2,1,Stolte et al. (2021) unpublished,325,0.3,Q3,NZVM (2021),0,0,0,Wellington
+WNHS,-41.30077798,174.775514,8,C,493,0.02,Q1,Stolte et al. 2021 unpublished,0.32,0.042,Q1,Mw,Stolte et al. 2021 unpublished,50,0.05,Q2,1,Stolte et al. (2021) unpublished,325,0.5,Q3,NZVM (2021),0,0,0,Wellington
+WNKS,-41.28481753,174.7420537,261,C,369,0.008,Q1,Stolte et al. 2021 unpublished,0.31,0.33,Q1,Ms,Stolte et al. 2021 unpublished,39,0.067,Q1,1,Stolte et al. (2021) unpublished,325,0.5,Q3,NZVM (2021),0,0,0,Wellington
+WTMC,-42.61945518,173.0535962,464,D,504,0.032,Q1,Stolte et al. 2021 unpublished,0.58,0.17,Q1,I,Stolte et al. 2021 unpublished,87,0.473,Q2,0,Stolte et al. (2021) unpublished,1525,0.3,Q3,NZVM (2021),0,0,0,Canterbury
+MHGZ,-39.15255834,177.9070012,503,B,1000,0.2,Q1,NSHM 2021,0.05,0.1,Q1,I,Manea et al. 2021 unpublished,15,0.3,Q3,1,NSHM (2021) ,9525,0.5,Q3,NZVM (2021),0,0,0,Hawkes Bay
+HBHS,-37.785638,175.295136,39,D,182,0.1,Q1,Cave (2020),3.2,0.02,Q1,I,Cave (2020),396,0.1,Q2,1,Cave (2020),975,0.3,Q3,NZVM (2021),0,0,0,South Auckland
+CPLB,-41.278806,174.78209,2,D,244,0.01,Q1,Stolte et al. 2023 unpublished,1.21,0.11,Q1,Ma,Kaiser et al. 2019,247,0.1,Q2,1,Hill et al. (2021),325,0.3,Q3,NZVM (2021),0,0,0,Wellington
